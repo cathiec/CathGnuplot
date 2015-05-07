@@ -1,6 +1,5 @@
 # ***CathGnuplot***
-### <-                 C++ Interface to Gnuplot
-### Created by `Xiao XU`
+### C++ Interface to Gnuplot / Created by `Xiao XU`
 ##### For any question, please contact `xiao.xu.cathiec@gmail.com`.
 
 >Gnuplot is a command-line program that can generate 2D/3D plots of functions, data, and data fits. It is frequently used for publication-quality graphics as well as education. The program runs on all major computers and operating systems (GNU/Linux, Unix, Microsoft Windows, Mac OS X, and others).
