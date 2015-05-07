@@ -2,7 +2,7 @@
 //  Data_Generator.cpp
 //  
 //
-//  Created by Xiao XU and Marco GUIDO on 15/4/10.
+//  Created by Xiao XU on 15/4/10.
 //
 //
 
