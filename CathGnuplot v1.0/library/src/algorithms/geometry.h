@@ -2,7 +2,7 @@
 //  Geometry.h
 //  
 //
-//  Created by Xiao XU & Marco GUIDO on 15/4/1.
+//  Created by Xiao XU on 15/4/1.
 //
 //
 
