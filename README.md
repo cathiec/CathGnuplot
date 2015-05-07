@@ -1,4 +1,5 @@
-# ***CathGnuplot*** - a C++ interface to Gnuplot
+# ***CathGnuplot***
+### * A C++ Interface to Gnuplot
 ### Created by `Xiao XU`
 ##### For any question, please contact `xiao.xu.cathiec@gmail.com`.
 
